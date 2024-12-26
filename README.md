@@ -4,12 +4,15 @@ This task is a modern, interactive, and user-friendly stopwatch web application 
 
 ### Features
 
-✨ Start/Stop Timer<br>
+✨ Start/Stop Timer <br>
 Start and pause the stopwatch seamlessly.
-✨ Reset Timer<br>
+
+✨ Reset Timer <br>
 Reset the timer back to 00:00:00.
+
 ✨ Record Laps<br>
 Save lap times to keep track of milestones or splits.
+
 ✨ Responsive UI<br>
 Clean and modern interface with animations and hover effects.
 
